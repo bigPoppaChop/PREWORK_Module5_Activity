@@ -1,0 +1,39 @@
+
+.center{
+    text-align: center;
+}
+.redline{
+    color: red;
+}
+.blueline{
+    color:blue;
+}
+.greenline{
+    color:green;
+}
+.bigtext{
+    font-size: 200%;
+}
+.smalltext{
+    font-size: 80%;
+}
+.centeredline{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+.fontline{
+    font-family: fantasy;
+}
+.multicombo{
+    font-weight: bold;
+    color: orange;
+    font-size: 150%;
+}
+.styledFont{
+    color:green;
+}
+#styledImage{
+    border: 20px solid yellow;
+}
